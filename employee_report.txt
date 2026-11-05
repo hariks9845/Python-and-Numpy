@@ -1,0 +1,9 @@
+EMPLOYEE PERFORMANCE REPORT
+===========================
+
+Total employees: 10
+Average performance: 66.67
+Highest performance: 95.0
+Lowest performance: 35.0
+Average salary: 56200.00
+Missing scores: 1
